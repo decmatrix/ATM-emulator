@@ -1,2 +1,2 @@
-# os lab 2
+# ATM emulator
 Program demonstrate ATM emulator with parallel programing tools
